@@ -12,12 +12,8 @@ NiceFish是一个系列教学项目，都是Angular这个技术栈。
 - NiceFish-ionic：这是一个移动端的demo，基于ionic。http://git.oschina.net/mumu-osc/nicefish-ionic
 
 - NiceFish-SpringMybatis：这是Java版后台服务，http://git.oschina.net/mumu-osc/NiceFish-SpringMybatis 
-
-- NiceBlogElectron：https://github.com/damoqiongqiu/NiceBlogElectron ,这是一个基于Electron的桌面端项目，把NiceFish用Electron打包成了一个桌面端运行的程序。这是由ZTE中兴通讯的前端道友提供的，我fork了一个，有几个node模块的版本号老要改，如果您正在研究如何利用Electron开发桌面端应用，请参考这个项目。
-
-## 对应的视频教程
-
-此项目对应的视频教程（超清），包括所有PPT，请点这里：http://damoqiongqiu.github.io/videos/index.html
+ 
+ 
 
 
 ## 用法
@@ -43,3 +39,10 @@ NiceFish是一个系列教学项目，都是Angular这个技术栈。
 
 打开你的浏览器，访问http://localhost:4200/
  
+
+ 项目 贡献者  大漠穷秋 
+https://gitee.com/mumu-osc/
+ 开源许可证
+MIT
+
+你可以随意使用此项目，无需通知我，因为我可能很忙没空搭理你
